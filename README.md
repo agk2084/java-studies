@@ -1,2 +1,17 @@
-# java-studies
-Repositório de estudos em Java com exercícios práticos, abordando lógica de programação, estruturas de dados e fundamentos da linguagem.
+# ☕ Java Studies
+
+Repositório de estudos em Java com exercícios práticos focados em lógica de programação e fundamentos da linguagem.
+
+---
+
+## 📚 Conteúdos
+
+- Estruturas condicionais
+- Laços de repetição
+- Funções
+- Arrays
+- Lógica de programação
+
+---
+
+## 📁 Estrutura
